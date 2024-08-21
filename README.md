@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MarkoRaska
-- 👀 I’m interested in milk
-- 🌱 I’m currently learning milk
-- 💞️ I’m looking to collaborate on milk
+- 👀 I’m interested in cheese
+- 🌱 I’m currently learning cheese
+- 💞️ I’m looking to collaborate on cheese
 - 📫 How to reach me phone
-- 😄 Pronouns: milk
-- ⚡ Fun fact: also milk
+- 😄 Pronouns: cheese
+- ⚡ Fun fact: also cheese
 
 <!---
 MarkoRaska/MarkoRaska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
